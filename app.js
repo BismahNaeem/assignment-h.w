@@ -1,5 +1,4 @@
-#! /usr/bnv/env node
-//SHABANG
+
 import inquirer from "inquirer";
 //variable for id
 let email1 = "bianaeem17@gmail.com";
